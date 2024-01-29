@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1706527475 source:/home/pi/Documents/TCS34725/tcs34725_thingsboard/tcs34725_thingsboard/main.cpp
+	<iostream>
+	<wiringPi.h>
+	<wiringPiI2C.h>
+	<unistd.h>
+	<ctime>
+	<iomanip>
+	<curl/curl.h>
+
